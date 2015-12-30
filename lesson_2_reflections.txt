@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 After initializing a repository, it is ready for its first commit. By 
 setting it up, one can get ready to a full line of COMMITments later.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging areas offer a programmer an intermittent place to decide 
+which individual files to include in a COMMIT. It is the first step to starting a version-control system.
+
+Testing for a change
