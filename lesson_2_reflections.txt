@@ -32,3 +32,10 @@ What is the result of merging two branches together? Why do we represent it in t
 Merging two branches together has the advantage of taking all the positive changes of two lines of development and merging them into
 the master line. We represent it in the diagram because we want to be
 sure that we are not disregarding any commits that we do not intend to.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros include time-savings and a specific way of handling different codes
+so a programmer can infer what kind of changes was made to the merged 
+file. However, cons are big, in that you are unsure whether the codes 
+thrown away by the merger are actually useless, or if the codes added in
+are actually useful. 
