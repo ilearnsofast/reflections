@@ -16,3 +16,7 @@ we wanted. After that, we can use git diff --staged to make sure it is
 really what we want by comparing every changes added to the staging area
 to the most recent commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can help experimental changes that are tracked and implemented
+alongside the mainline of development of a program. Eventually a 
+programmer can choose to merge the two lines.
