@@ -13,3 +13,7 @@ Forks allow me to copy repositories from other GitHubbers onto my GitHub account
 i can commit changes to it. Clones can be used locally. Branches are used locally to diverge on a master path on experimental or mode 
 changes to the original codes.
 
+What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+It will allow effective merging of the remote commit with the lastest
+version of a local commit. 
