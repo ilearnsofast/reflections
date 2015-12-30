@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+After initializing a repository, it is ready for its first commit. By 
+setting it up, one can get ready to a full line of COMMITments later.
+
