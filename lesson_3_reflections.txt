@@ -25,3 +25,15 @@ using GitHub because GH specifically locates all of the areas of
 change and points it to the editor. It would take a lot of 
 explaining with the email method and I don't see any advantages 
 to using other methods when compared to GH.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes in a separate branch is beneficial when certain 
+changes can preferably be looked at and tried out before 
+implementing them to the master file path. This is to minimize
+disruption to service as well as bad experiences by the users of
+an application, so as to ensure a smooth transition and maintain
+a reputation of a relatively bug free application. Making changes 
+directly in master has the obvious advantage of time-saving and 
+ease of execution, as well as avoiding costly errors due to conflicts
+with merging different files with multiple paths. Whether a separate branch or master is chosen will depend on the specific application 
+and the programmer's goal in user experience.
