@@ -20,3 +20,10 @@ What are some situations when branches would be helpful in keeping your history 
 Branches can help experimental changes that are tracked and implemented
 alongside the mainline of development of a program. Eventually a 
 programmer can choose to merge the two lines.
+
+How do the diagrams help you visualize the branch structure?
+By drawing out the diagram according to different progression lines
+of different branches, a programmer is able to clearly see the merging
+opportunities presented at each stage and is also able to clearly see
+the full picture of the development of the program itself, from every
+angle.
