@@ -17,3 +17,11 @@ What is the benefit of having a copy of the last known state of the
 remote stored locally?
 It will allow effective merging of the remote commit with the lastest
 version of a local commit. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I suppose I would send emails back and forth with an experienced
+programmer and attempt to fix my issues. It would be harder than 
+using GitHub because GH specifically locates all of the areas of 
+change and points it to the editor. It would take a lot of 
+explaining with the email method and I don't see any advantages 
+to using other methods when compared to GH.
