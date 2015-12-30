@@ -7,3 +7,12 @@ The staging areas offer a programmer an intermittent place to decide
 which individual files to include in a COMMIT. It is the first step to starting a version-control system.
 
 Testing for a change
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+Each time a change is added to the staging area, we can use git diff to
+compare it to the original file and see if the changes are really what
+we wanted. After that, we can use git diff --staged to make sure it is 
+really what we want by comparing every changes added to the staging area
+to the most recent commit.
+
