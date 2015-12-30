@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When I want to publish my work, either free of charge to the public or for a fee. I might also edit my work on another device, such as
+a laptop or phone, then commit it and later pull all the changes back to my local depositary.
