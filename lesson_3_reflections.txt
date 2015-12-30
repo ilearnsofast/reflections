@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When I want to publish my work, either free of charge to the public or for a fee. I might also edit my work on another device, such as
 a laptop or phone, then commit it and later pull all the changes back to my local depositary.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Firstly, other users might add commits to your master remote repository without you knowing. If Git automatically stays up-to-date, this will set
+the programmer up for disaster. Rather, it is much safer for the 
+programmer to decide when is a good time to pull changes from the remote
+repository.
