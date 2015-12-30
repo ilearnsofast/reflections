@@ -7,3 +7,9 @@ Firstly, other users might add commits to your master remote repository without 
 the programmer up for disaster. Rather, it is much safer for the 
 programmer to decide when is a good time to pull changes from the remote
 repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks allow me to copy repositories from other GitHubbers onto my GitHub account. I can then clone the repositories to my local one so 
+i can commit changes to it. Clones can be used locally. Branches are used locally to diverge on a master path on experimental or mode 
+changes to the original codes.
+
