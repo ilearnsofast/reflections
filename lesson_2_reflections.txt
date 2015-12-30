@@ -27,3 +27,8 @@ of different branches, a programmer is able to clearly see the merging
 opportunities presented at each stage and is also able to clearly see
 the full picture of the development of the program itself, from every
 angle.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together has the advantage of taking all the positive changes of two lines of development and merging them into
+the master line. We represent it in the diagram because we want to be
+sure that we are not disregarding any commits that we do not intend to.
